@@ -1,6 +1,6 @@
 # mlko01 — Security Notes
 
-A technical notes repository, not a certification portfolio. This documents real research process: what I test, what fails, what I learn — focused on demonstrable impact, not writeup volume.
+A living technical notebook, not a certification portfolio. I document real offensive security research: what I test, what breaks, what gets rejected, and why — with a hard focus on proving real-world impact, never theoretical findings.
 
 ## Structure
 
@@ -16,8 +16,10 @@ Nothing here is documented just for completeness. Every note or writeup exists b
 
 ## Contact
 
+- Email: manu.ciberseguridad@gmail.com
 - GitHub: [github.com/mlko01](https://github.com/mlko01)
-- Bugcrowd / HackerOne / YesWeHack: `mlko01`
+- TryHackMe: [tryhackme.com/p/mlko01](https://tryhackme.com/p/mlko01)
+- Bugcrowd / HackerOne / YesWeHack / Intigriti: `mlko01`
 
 ---
 *Note: disclosure policies of each platform are respected. No unresolved vulnerabilities or details of active production systems are published here.*
