@@ -1,6 +1,6 @@
-# mlko01 — Security Notes
+# mlko01 — CyberSecurity Notes
 
-A living technical notebook, not a certification portfolio. I document real offensive security research: what I test, what breaks, what gets rejected, and why — with a hard focus on proving real-world impact, never theoretical findings.
+A living technical notebook. I document real offensive security research: what I test, what breaks, what gets rejected, and why hard focus on proving real world impact, never theoretical findings.
 
 ## Structure
 
@@ -12,7 +12,7 @@ A living technical notebook, not a certification portfolio. I document real offe
 
 ## Philosophy
 
-Nothing here is documented just for completeness. Every note or writeup exists because it demonstrates something concrete: a technique that worked, a rejection pattern to avoid, or a finding with verified real impact — never theoretical.
+Every note or writeup exists because it demonstrates something concrete: a technique that worked, a rejection pattern to avoid, or a finding with verified real impact.
 
 ## Contact
 
