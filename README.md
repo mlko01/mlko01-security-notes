@@ -2,8 +2,6 @@
 
 > 📚 **Read the official documentation online:** [mlko01.gitbook.io/mlko01-security-notes](https://mlko01.gitbook.io/mlko01-security-notes)
 
-A living technical notebook...
-
 A living technical notebook, not a certification portfolio. I document real offensive security research: what I test, what breaks, what gets rejected, and hard focus on proving real-world impact, never theoretical findings.
 
 ## Structure
