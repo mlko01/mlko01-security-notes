@@ -13,7 +13,3 @@ This section compiles my study notes, training roadmaps, and technical research 
 *   **Threat Modeling:** Analyzing potential attack surfaces in satellite telemetry, tracking, and control (TT&C) systems.
 
 ---
-
-## Subsections
-
-*   [Road to eJPT](road-to-ejpt.md) — My structured practical path and hands-on notes for the eLearnSecurity Junior Penetration Tester certification.
