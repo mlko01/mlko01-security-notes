@@ -12,7 +12,7 @@ A living technical notebook, not a certification portfolio. I document real offe
 
 ## Philosophy
 
-Nothing here is documented just for completeness. Every note or writeup exists because it demonstrates something concrete: a technique that worked, a rejection pattern to avoid, or a finding with verified real impact].
+Nothing here is documented just for completeness. Every note or writeup exists because it demonstrates something concrete: a technique that worked, a rejection pattern to avoid, or a finding with verified real impact.
 
 ## Contact
 
