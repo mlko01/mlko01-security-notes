@@ -15,7 +15,7 @@
 
 ## Certifications & Roadmaps
 * [Overview](certifications/README.md)
-* [eJPT](certifications/ejpt/road-to-ejpt.md)
+* [Road to eJPT](certifications/ejpt/road-to-ejpt.md)
 
 ## CTFs & Labs
 * [Introduction](ctfs/README.md)
