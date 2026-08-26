@@ -12,7 +12,9 @@
 
 ## Space Cybersecurity
 * [Introduction](space-cybersecurity/README.md)
-* [Road to eJPT](space-cybersecurity/road-to-ejpt.md)
+
+## Certifications & Roadmaps
+* [Road to eJPT](certifications/road-to-ejpt.md)
 
 ## CTFs & Labs
 * [Introduction](ctfs/README.md)
