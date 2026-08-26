@@ -9,6 +9,7 @@ A living technical notebook, not a certification portfolio. I document real offe
 | [Bug Bounty](bug-bounty/README.md) | Personal methodology and writeups for reports with validated real-world impact |
 | [SatVectors](satvectors/README.md) | Recon research and attack vector investigation in the space sector |
 | [Space Cybersecurity](space-cybersecurity/README.md) | Training roadmap, RF/SATCOM, study notes |
+| [Roadmaps & Certs](/certifications/road-to-ejpt.md) | Study notes, exam preparations, and practical roadmaps (e.g., Road to eJPT). |
 
 ## Philosophy
 
